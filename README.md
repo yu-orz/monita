@@ -1,4 +1,4 @@
 monita
 ======
 
-simple http monitering script
+simple http monitering python script
